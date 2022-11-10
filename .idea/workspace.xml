@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6f96f42-3f28-468d-8782-0864eb641c11" name="Changes" comment="" />
+    <list default="true" id="c6f96f42-3f28-468d-8782-0864eb641c11" name="Changes" comment="swapping done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668033607406</updated>
     </task>
+    <task id="LOCAL-00001" summary="swapping done">
+      <created>1668038863451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668038863451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +56,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swapping done" />
+    <option name="LAST_COMMIT_MESSAGE" value="swapping done" />
   </component>
 </project>
